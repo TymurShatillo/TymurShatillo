@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TymurShatillo
+- 👀 I’m interested in game creating
+- 🌱 I’m currently learning unity
